@@ -1,4 +1,4 @@
-Algorithm Visualizer  
+**Algorithm Visualizer**  
 A simple C++ project that shows how sorting algorithms work step by step.
 
 Overview  
