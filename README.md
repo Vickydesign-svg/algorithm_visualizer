@@ -3,7 +3,7 @@ A simple C++ project that shows how sorting algorithms work step by step.
 
 Overview  
 This project visualizes how sorting algorithms transform an array over time.  
-Instead of only showing the final sorted result, the program prints the **state of the array after each pass**, helping beginners understand how the algorithm works internally.
+Instead of only showing the final sorted result, the program prints the state of the array after each pass, helping to understand how the algorithm works internally.
 
 It currently includes:
 - Bubble Sort  
