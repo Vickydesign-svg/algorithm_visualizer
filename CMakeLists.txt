@@ -4,4 +4,10 @@ project(algorithm_visualizer)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(algorithm_visualizer
-        bubble_sort.cpp)
+        src/bubble_sort.cpp
+        src/selection_sort.cpp
+        src/selection_sort.cpp
+        src/main.cpp
+        include/selection_sort.h
+)
+include_directories(include)
