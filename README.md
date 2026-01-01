@@ -27,7 +27,7 @@ Technologies
 - **Version Control:** Git and GitHub
 
  Project Structure
- algorithm-visualizer/
+ - algorithm-visualizer/
 │
 ├── src/
 │   ├── main.cpp
